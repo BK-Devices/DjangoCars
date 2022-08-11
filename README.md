@@ -74,15 +74,9 @@ Follow the following steps for running this project -
 14] Then Run the project on Server.
 
 
-Passwords & User Id of Admin
-----------------------------
-User Id - Admin
-
-Password - Admin@1234
-
-
 Password & User Id of Admin
---------------------------------
+---------------------------
 User Id - Admin
 
 Password - Admin@1234
+
