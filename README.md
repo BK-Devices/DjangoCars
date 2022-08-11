@@ -43,15 +43,15 @@ How to Run This Project on your PC
 --------------
 Follow the following steps for running this project -
 
-1] Configure the Java jdk-17 LTS by setting envionmental variables.
+1] Download the Zip we have provided here.
 
-2] Configure the apache-tomcat-9.0.60 server by setting envionmental variables.
+2] Unzip that zip file.
 
-3] Configure the Eclipse IDE 2012-12.
+3] Move "ShowRoom" folder where you want.
 
-4] Add apache-tomcat-9.0.60 server in Eclipse IDE.
+4] Open Terminal.
 
-5] Unzip the provided "EWalletProject.zip".
+5] Go to that specific folder where "ShowRoom" folder was placed using "cd " command.
 
 6] Move the whole folder named "EWallet" inside unziped folder "EWalletProject" to the workspace of Eclipse IDE.
 
