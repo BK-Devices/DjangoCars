@@ -51,11 +51,11 @@ Follow the following steps for running this project -
 
 4] Open Terminal.
 
-5] Go to that specific folder where "ShowRoom" folder was placed using "cd " command.
+5] Now change directory where "ShowRoom" folder was placed using "cd " command.
 
-6] Move the whole folder named "EWallet" inside unziped folder "EWalletProject" to the workspace of Eclipse IDE.
+6] execute command (pip install virtualenv).
 
-7] Open Eclipse IDE >>>> File >>>> Open Projects from file system..
+7] execute command (cd ShowRoom).
 
 8] Directory >>>> Select workspace of Eclipse IDE >>>> Select EWallet Project >>>> Finish.
 
