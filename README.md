@@ -1,4 +1,4 @@
-EWallet
+DjangoCars
 =============
 This is the Java Web project of EWallet Trasactions. 
 
