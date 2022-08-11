@@ -57,13 +57,13 @@ Follow the following steps for running this project -
 
 7] execute command (cd ShowRoom).
 
-8] Directory >>>> Select workspace of Eclipse IDE >>>> Select EWallet Project >>>> Finish.
+8] execute command (cd scripts).
 
-9] If Needed then add libraries provided by us.
+9] execute command (cd ShowRoom).
 
-10] For adding libraries perform following steps.
+10] execute command (cd ShowRoom).
 
-11] Right click on project >>>> Build Path >>>> Configure Build Path >>>> Java Build Path >>>> Libraries >>>> ClassPath >>>> Add External Jars.
+11] execute command (cd ShowRoom).
 
 12] Select All Jars files provided by us >>>> Apply >>>> Deployment Assembly >>>> Add >>>> Java Build Path Entries >>>> Select All Jars >>>> Finish >>>> Apply & Close.
 
