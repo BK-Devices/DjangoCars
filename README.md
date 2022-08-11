@@ -81,14 +81,8 @@ User Id - Admin
 Password - Admin@1234
 
 
-Passwords & User Id of Customers
+Password & User Id of Admin
 --------------------------------
-Password - 0123456789
+User Id - Admin
 
-User 1 - Bhavesh
-
-User 2 - Prajwal
-
-User 3 - Pushker
-
-User 4 - Sanchi
+Password - Admin@1234
