@@ -63,13 +63,17 @@ Follow the following steps for running this project -
 
 10] execute command (pip install django).
 
-11] execute command (cd ShowRoom).
+11] execute command (cd Cars).
 
-12] Select All Jars files provided by us >>>> Apply >>>> Deployment Assembly >>>> Add >>>> Java Build Path Entries >>>> Select All Jars >>>> Finish >>>> Apply & Close.
+12] execute command (pip install pymysql).
 
-13] Refresh the Project.
+13] execute command (python manage.py runserver).
 
-14] Then Run the project on Server.
+14] Project has been deployed on server.
+
+15] Type th url on any browser (http://127.0.0.1:8000/).
+
+16] Your project will be open.
 
 
 Password & User Id of Admin
