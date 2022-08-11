@@ -13,11 +13,11 @@ Requirements and Setup
 ----------------------
 For running this code you need - 
 
-1] Java 17 LTS
+1] Python
 
-2] apache-tomcat-9.0.60
+2] Terminal
 
-3] Eclipse IDE 2012-12
+3] Install following libraries
 
 
 
