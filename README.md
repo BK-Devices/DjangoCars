@@ -59,9 +59,9 @@ Follow the following steps for running this project -
 
 8] execute command (cd scripts).
 
-9] execute command (cd ShowRoom).
+9] execute command (activate).
 
-10] execute command (cd ShowRoom).
+10] execute command (pip install django).
 
 11] execute command (cd ShowRoom).
 
