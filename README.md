@@ -5,8 +5,7 @@ This is the Python Web project of any Showroom.
 **Please feel free to use the Issues feature of GitHub if you run into problems or have suggestions for important features to implement. This is the best way to get in touch.**
 
 Thanks For Your Support!
-------------------------
-------------------------
+--------------------------
 
 
 
@@ -24,7 +23,11 @@ For running this code you need -
 
 Libraries
 ---------------------
-Libraries required for this project is provided with it.
+1] Virtual environment     (installing command - "pip install virtualenv")
+
+2] Django                  (installing command - "pip install django")
+
+3] Pymysql                 (installing command - "pip install pymysql")
 
 
 
