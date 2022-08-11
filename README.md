@@ -33,11 +33,9 @@ Libraries
 
 Further Details
 ---------------
-This project is developed on Eclipse IDE. We have use Tomcat 9 server for this project.
+This project is developed in Python using Django Framework.
 
-In this project for storing Data we have used MongoDB Database. And also, we have developed the Rest-Api.
-
-Further details of Rest-Api is given on Home page.
+In this project for storing Data we have used MongoDB Database.
 
 
 
