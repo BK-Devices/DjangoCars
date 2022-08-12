@@ -47,7 +47,7 @@ Follow the following steps for running this project -
 
 2] Unzip that zip file.
 
-3] Move "ShowRoom" folder where you want.
+3] Move "ShowRoom" folder inside unzip folder "ShowRoom" where you want.
 
 4] Open Terminal.
 
