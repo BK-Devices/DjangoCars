@@ -26,7 +26,7 @@ Libraries
 1] Virtual environment     (installing command - "pip install virtualenv")
 
 2] Django                  (installing command - "pip install django")
-
+ 
 3] Pymysql                 (installing command - "pip install pymysql")
 
 
