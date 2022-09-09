@@ -71,7 +71,7 @@ Follow the following steps for running this project -
 
 14] Project has been deployed on server.
 
-15] Type th url on any browser (https://127.0.0.1:8000/).
+15] Type th url on any browser (http://127.0.0.1:8000/).
 
 16] Your project will be open.
 
